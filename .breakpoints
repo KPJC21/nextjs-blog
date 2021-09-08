@@ -3,9 +3,17 @@
     "nextjs-blog/pages/posts/[id].js": [
       {
         "id": "ebd2a01c-55ad-46dc-9ab7-37d4392ed59d",
-        "line": 4,
-        "version": 78,
-        "index": 138
+        "line": 1,
+        "version": 115,
+        "index": 0
+      }
+    ],
+    "nextjs-blog/pages/posts/alert-post.js": [
+      {
+        "id": "532fffca-4f68-4426-a89c-716b5781a463",
+        "line": 1,
+        "version": 3,
+        "index": 0
       }
     ]
   }
